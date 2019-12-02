@@ -1,0 +1,20 @@
+{
+  "name": "ANS",
+  "version": "0.0.1",
+  "author": "Josh",
+  "dependencies": {
+    "pg": "*",
+    "express": "*",
+    "body-parser": "*",
+    "cfenv": "*",
+    "request": "*",
+    "node-schedule": "*",
+    "express-basic-auth": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "8"
+  }
+}

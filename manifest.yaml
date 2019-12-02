@@ -1,0 +1,6 @@
+---
+applications:
+- name: ANS-PostgreSQL
+  command: node app.js
+  host: ANS-postgresql-api
+  buildpack: nodejs_buildpack
